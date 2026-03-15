@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-121212?style=flat&logo=bitcoin&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Web3-E434AA?style=flat&logo=ethereum&logoColor=white"/>
 </p>
 
 ---
@@ -53,9 +51,8 @@ Here are some ideas to get you started:
 
 ---
 
-### Learning Goals for 2025 
+### Learning Goals f 
 
-- 🔐 Understand real-world applications of **Blockchain & Web3**
 - 🛠️ Build full-stack projects combining **front-end + back-end + data**
 - 🌐 Contribute to open-source or hackathons
 - 📚 Strengthen algorithm and OOP foundations across multiple languages
