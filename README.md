@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight" width="90%" />
-</p>
+</p> -->
 
 ---
 
